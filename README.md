@@ -7,7 +7,7 @@ Consiste em um Aplicativo Web de lista de tarefas, você pode pesquisar adiciona
 
 
 ## Layout web
-![Web 1](https://github.com/aslac2020/imagespublicacao/blob/main/assets/images/Sites/santander.PNG)
+![Web 1](https://github.com/aslac2020/imagespublicacao/blob/main/assets/images/Sites/todo%20angular.PNG)
 
 # Tecnologias utilizadas
 
